@@ -1,5 +1,0 @@
-drink
-food
-inside
-menu
-outside
