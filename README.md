@@ -33,6 +33,6 @@ Usage
 
  Our Accuracy and Loss
 -------------------
-![Accuracy and Loss](https://github.com/Sapphirine/YelpRecommendation/blob/master/img/acc.png)
+![Accuracy and Loss](https://github.com/Sapphirine/YelpRecommendation/blob/master/img/acc.png)(https://github.com/Sapphirine/YelpRecommendation/blob/master/img/loss.png)
 
 
