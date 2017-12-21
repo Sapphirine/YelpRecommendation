@@ -27,17 +27,7 @@ Usage
 
 2. Classification System (training)
 	```
-	$ python -m scripts.retrain \
-	```
-  --bottleneck_dir=tf_files/bottlenecks \
-  	```
-  --model_dir=tf_files/models/ \
-  	```
-  --output_graph=tf_files/retrained_graph.pb \
-  	```
-  --output_labels=tf_files/retrained_labels.txt \
-  	```
-  --image_dir=tf_files/'Your Directory'
+	$ python -m scripts.retrain \ --bottleneck_dir=tf_files/bottlenecks \ --model_dir=tf_files/models/ \ --output_graph=tf_files/retrained_graph.pb \ --output_labels=tf_files/retrained_labels.txt \ --image_dir=tf_files/'Your Directory'
 	```
 	Change the --image_dir=tf_files/'Your Directory' to Your Directory of dataset.
 
