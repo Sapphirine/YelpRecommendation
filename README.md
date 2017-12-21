@@ -33,6 +33,6 @@ Usage
 
  Our Accuracy and Loss
 -------------------
-![Accuracy and Loss](https://bytebucket.org/md3487/ecbm4040_final_project/raw/9ffde6c159cd4b81d6a5d91874332f1e0e3d5420/images/accuracy.png?token=dc66c84fe111f192d8a8a60347ab4c0701d304e2)
+![Accuracy and Loss](https://github.com/Sapphirine/YelpRecommendation/blob/master/img/acc.png)
 
 
